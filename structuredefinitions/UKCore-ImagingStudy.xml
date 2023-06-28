@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StructureDefinition xmlns="http://hl7.org/fhir">
   <id value="UKCore-AmagingStudy" />
-  <url value="https://fhir.hl7.org.uk/StructureDefinition/UKCore-ImagingStudy" />
+  <url value="https://fhir.hl7.org.uk/StructureDefinition/UKCore-ImagingStudys" />
   <version value="1.0.0" />
   <name value="UKCoreImagingStudy" />
   <title value="UK Core Imaging Study" />
