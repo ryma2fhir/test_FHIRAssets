@@ -2,7 +2,7 @@
   <id value="UKCore-DeathNotificationStdatus" />
   <url value="https://fhir.hl7.org.uk/CodeSystem/UKCore-DeathNotificationStatus" />
   <version value="2.1.0" />
-  <name value="UKCoreDeathNotificationStatus" />
+  <name value="UKCoreDeathNotifiscationStatus" />
   <title value="UK Core Death Notificdation Status" />
   <status value="active" />
   <date value="2021-09-10" />
