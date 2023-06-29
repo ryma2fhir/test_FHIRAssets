@@ -87,10 +87,6 @@
 			<profile value="https://fhir.hl7.org.uk/StructureDefinition/UKCore-HealthcareService"/>
 		</resource>
 		<resource>
-			<type value="ImagingStudy"/>
-			<profile value="https://fhir.hl7.org.uk/StructureDefinition/UKCore-ImagingStudy"/>
-		</resource>
-		<resource>
 			<type value="Immunization"/>
 			<profile value="https://fhir.hl7.org.uk/StructureDefinition/UKCore-Immunization"/>
 		</resource>
