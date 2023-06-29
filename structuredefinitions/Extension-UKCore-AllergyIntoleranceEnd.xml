@@ -5,7 +5,7 @@
   <version value="2.2.0" />
   <name value="ExtensionUKCoreAllergyIntoleranceEnd" />
   <title value="Extension UK Core Allergy Intolerance End" />
-  <status value="active" />
+  <status value="retired" />
   <date value="2022-08-26" />
   <publisher value="HL7 UK" />
   <contact>
