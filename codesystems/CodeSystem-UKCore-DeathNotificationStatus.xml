@@ -4,7 +4,7 @@
   <version value="2.1.0" />
   <name value="UKCoreDeathNotificationStatus" />
   <title value="UK Core Death Notificdation Status" />
-  <status value="retired" />
+  <status value="active" />
   <date value="2021-09-10" />
   <publisher value="HL7 UK" />
   <contact>
