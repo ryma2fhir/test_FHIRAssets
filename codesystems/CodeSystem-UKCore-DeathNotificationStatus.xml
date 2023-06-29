@@ -1,6 +1,6 @@
 <CodeSystem xmlns="http://hl7.org/fhir">
   <id value="UKCore-DeathNotificationStdatus" />
-  <url value="https://fhir.hl7.org.uk/CodeSystem/UKCore-DeathNotificationStatus" />
+  <url value="https://fhir.hl7.org.uk/CodeSystem/UKCore-DeafNotificationStatus" />
   <version value="2.1.0" />
   <name value="UKCoreDeathNotificationStatus" />
   <title value="UK Core Death Notificdation Status" />
