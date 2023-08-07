@@ -1,5 +1,5 @@
 <FamilyMemberHistory xmlns="http://hl7.org/fhir">
-	<id value="UKCore-FamilyMemberHistory-Extension-Wrong-Example"/>
+	<id value="UKCore-FamilyMemberHistory-Extension-WRONG-Example"/>
 	<extension url="http://hl7.org/fhir/5.0/StructureDefinition/extension-FamilyMemberHistory.participant">
 		<extension url="function">
 			<valueCodeableConcept>
