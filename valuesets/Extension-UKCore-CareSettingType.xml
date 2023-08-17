@@ -5,7 +5,7 @@
   <version value="2.2.0" />
   <name value="ExtensionUKCoreCareSettingType" />
   <title value="Extension UK Core Care Setting Type" />
-  <status value="active" />
+  status value="active" />
   <date value="2022-12-16" />
   <publisher value="HL7 UK" />
   <contact>
