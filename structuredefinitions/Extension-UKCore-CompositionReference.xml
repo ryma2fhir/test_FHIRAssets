@@ -3,7 +3,7 @@
   <id value="Extension-UKCore-CompositionReference" />
   <url value="http://hl7.org/fhir/5.0/StructureDefinition/extension-DiagnosticReport.composition" />
   <version value="1.0.0" />
-  <name value="ExtensionUKCoreCompositionReference" />
+  <name value="ExtensionUKCoreCompositionReference111" />
   <title value="Extension UK Core Composition Reference" />
   <status value="active" />
   <date value="2023-04-28" />
