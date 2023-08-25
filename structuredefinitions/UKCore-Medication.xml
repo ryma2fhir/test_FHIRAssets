@@ -12,7 +12,7 @@
     <name value="HL7 UK" />
     <telecom>
       <system value="email" />
-      <value value="ukcore@hl7.org.uk" />
+      <value value="ukgfgcore@hl7.org.uk" />
       <use value="work" />
       <rank value="1" />
     </telecom>
