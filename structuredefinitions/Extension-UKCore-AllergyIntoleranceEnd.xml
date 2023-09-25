@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StructureDefinition xmlns="http://hl7.org/fhir">
-  <id value="Extension-UKCore-AllergyIntoleranceEnd" />
+  id value="Extension-UKCore-AllergyIntoleranceEnd" />
   <url value="https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-AllergyIntoleranceEnd" />
   <version value="2.2.0" />
   <name value="ExtensionUKCoreAllergyIntoleranceEnd" />
@@ -12,7 +12,7 @@
     <name value="HL7 UK" />
     <telecom>
       <system value="email" />
-      <value value="ukcore@hl7.org.uk" />
+      <value value="ukcore@hl7.org.uk"
       <use value="work" />
       <rank value="1" />
     </telecom>
